@@ -1,0 +1,6 @@
+/* Add your CSS styles here */
+#game-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
